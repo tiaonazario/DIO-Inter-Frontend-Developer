@@ -1,7 +1,5 @@
 # Primeiros comandos com Git
 
----
-
 ## Iniciar o Git
 
 ```powershell
@@ -55,5 +53,4 @@ git add *
 git commit -m "mensagem"
 ```
 
-![Imagem](imagem.png)
-
+![Imagem](imagens/imagem.png)
